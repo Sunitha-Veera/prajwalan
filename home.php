@@ -10,7 +10,7 @@
     <style>
         body {
    /* background: linear-gradient(135deg, #1a1a2e, #16213e, #0f3460, #53354a); */
-   background: linear-gradient(90deg , #2c3e50, #3498db);
+   background: linear-gradient(90deg , #3b6790, #23486a);
 
 }
         </style>
